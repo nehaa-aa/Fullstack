@@ -1,0 +1,1 @@
+print("Uyi amma")
